@@ -1,0 +1,18 @@
+<resources>
+    <color name="colorPrimary">#ABC7FF</color>
+    <color name="colorPrimaryVariant">#6089CF</color>
+    <color name="colorSecondary">#FFC107</color>
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorSurface">#FAFAFA</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorOnBackground">#212121</color>
+    <color name="colorOnSurface">#212121</color>
+    <color name="colorPrimaryNight">#0064C6</color>
+    <color name="colorPrimaryVariantNight">#003C7C</color>
+    <color name="colorSecondaryNight">#B0BEC5</color>
+    <color name="colorBackgroundNight">#121212</color>
+    <color name="colorSurfaceNight">#121212</color>
+    <color name="colorOnPrimaryNight">#FFFFFF</color>
+    <color name="colorOnBackgroundNight">#E0E0E0</color>
+    <color name="colorOnSurfaceNight">#E0E0E0</color>
+</resources>
